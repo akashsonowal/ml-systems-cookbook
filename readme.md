@@ -30,3 +30,4 @@ TVM also compiles to WASM.
 
 # Extra
 GCC compiles C/C++ code to machine code
+LLVM is good for CPU and GPU but MLIR is generate framwework for any hardware. LLVM is a subset of MLIR.

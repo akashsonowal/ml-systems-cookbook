@@ -16,7 +16,7 @@ Tensorflow
 - To generate machine code from IR, compiler use codegen. Example of codegen is LLVM. This process in called lowering.
 - Tensorflow XLA, NVCC, TVM all use LLVM
 
-# Different tyoes of compilers
+# Different types of compilers
 -domain specific compiler: NVCC, XLA, PyTorch uses XLA for TPU and Glow for other hardwares.
 -3rd party compiler: TVM for custom compiler
 

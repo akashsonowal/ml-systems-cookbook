@@ -1,3 +1,6 @@
+# Computation
+------------------------------
+
 # ML Compilers to support Frameworks
 MLIR dialects
 TVM
@@ -32,3 +35,11 @@ TVM also compiles to WASM.
 GCC compiles C/C++ code to machine code
 LLVM is good for CPU and GPU but MLIR is generate framwework for any hardware. LLVM is a subset of MLIR.
 MLIR (A meta compiler that is used to build other compilers), 
+
+# Communication
+-----------------------------
+
+# Distributed
+
+- MultiGPU
+- Multinode

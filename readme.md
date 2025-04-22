@@ -45,9 +45,10 @@ MLIR (A meta compiler that is used to build other compilers),
 - Multinode
 
 -------------------------------------------
+Tech Stack
 
-Triton  + PyTorch + MLIR
-Pallas + JAX + XLA
+- Triton  + PyTorch + MLIR
+- Pallas + JAX + XLA
 
 # Resources
 - https://www.kapilsharma.dev/posts/deep-dive-into-triton-internals/
@@ -55,3 +56,4 @@ Pallas + JAX + XLA
 - https://www.kapilsharma.dev/posts/deep-dive-into-triton-internals-3/
 
 - https://www.youtube.com/watch?v=Oo07fFb-aH0
+- https://www.youtube.com/watch?v=Z3dL2D2BEHE

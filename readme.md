@@ -57,3 +57,18 @@ Tech Stack
 
 - https://www.youtube.com/watch?v=Oo07fFb-aH0
 - https://www.youtube.com/watch?v=Z3dL2D2BEHE
+
+IR to Machine code:
+x86 for CPU
+ptx for GPU
+
+Polyhedral model:
+The polyhedral model in compilers is a mathematical approach used for optimizing loop nests in high-level programming. In this model, loops are represented as geometric shapes (polyhedra) in a high-dimensional space, where each point in the shape corresponds to an individual iteration of the loop. The edges and faces of the polyhedron represent the relationships and dependencies between different iterations. This representation allows the compiler to perform sophisticated transformations on the loops, such as tiling, fusion, or parallelization, by manipulating the shapes in this abstract space. 
+
+These transformations can significantly improve the performance of the program, particularly for applications with complex loop structures and large amounts of data processing (like deep learning!). The polyhedral model excels at capturing and optimizing the parallelism and locality in loop nests, making it a powerful tool for optimizing the core operations found in a neural network, such as matrix multiplication.
+
+CuBLAS for linear algebra
+CuDNN for DL in GPU
+Eigen for DL In CPU
+
+

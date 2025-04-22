@@ -43,3 +43,15 @@ MLIR (A meta compiler that is used to build other compilers),
 
 - MultiGPU
 - Multinode
+
+-------------------------------------------
+
+Triton  + PyTorch + MLIR
+Pallas + JAX + XLA
+
+# Resources
+- https://www.kapilsharma.dev/posts/deep-dive-into-triton-internals/
+- https://www.kapilsharma.dev/posts/deep-dive-into-triton-internals-2/
+- https://www.kapilsharma.dev/posts/deep-dive-into-triton-internals-3/
+
+- https://www.youtube.com/watch?v=Oo07fFb-aH0

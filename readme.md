@@ -71,4 +71,16 @@ CuBLAS for linear algebra
 CuDNN for DL in GPU
 Eigen for DL In CPU
 
+## Roadmap
 
+1. Computational Performance: https://d2l.ai/chapter_computational-performance/index.html
+2. MLC Course (TVM): https://mlc.ai/summer22/schedule
+3. Triton Internals (MLIR): https://www.kapilsharma.dev/posts/deep-dive-into-triton-internals/
+4. XLA Deep Dive: https://medium.com/@muhammedashraf2661/demystifying-xla-unlocking-the-power-of-accelerated-linear-algebra-9b62f8180dbd
+5. Torch Dynamo Deep Dive: https://pytorch.org/docs/main/torch.compiler_dynamo_deepdive.html
+6. Perfomance tuning by Paul: https://paulbridger.com/
+7. Ultra Scale book implementation from scratch of all distributed algos.
+8. Model Optimization (Distillation, Quantization, Pruning) - TBD Source
+9. 100 days of cuda
+
+## Project

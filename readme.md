@@ -1,3 +1,7 @@
+## ASPLOS 2024 Workshop
+
+https://github.com/pytorch/workshops/tree/master/ASPLOS_2024
+
 The frontend of regular compilers (lexing/parsing) is very different from the frontend of ML compilers (graph capture, whether through tracing, bytecode analysis, etc.)
 
 Similarly, the backend ends up looking fairly different as well. For one, ML compilers typically start up with much more "semantic" information than traditional compilers. For example, they might do optimizations like "merge two matmuls into a single matmul". Another difference is that the general structure also ends up much "simpler". They usually support very limited forms of control flow, and so much of work involved in traditional compiler passes for handling CFGs also don't matter much.

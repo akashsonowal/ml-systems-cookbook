@@ -94,3 +94,7 @@ Eigen for DL In CPU
 9. 100 days of cuda
 
 ## Project
+
+## Courses
+1. ML Compilation: https://mlc.ai/summer22/schedule
+2. DL Systems: https://dlsyscourse.org/lectures/
